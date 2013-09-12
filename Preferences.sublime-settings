@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"font_size": 16.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"trailing_spaces_highlight_color": "comment",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 100
+}
